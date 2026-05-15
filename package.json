@@ -1,0 +1,14 @@
+{
+  "name": "sunwin-api",
+  "version": "1.0.0",
+  "description": "SunWin API WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sever.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
